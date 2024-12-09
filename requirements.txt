@@ -1,10 +1,9 @@
 fastapi
-nltk
-numpy
-pandas
-pickle5
-pydantic
-scikit-learn
-torch
-transformers
 uvicorn
+pydantic
+transformers==4.21.1
+torch
+numpy
+scikit-learn
+pandas
+nltk
