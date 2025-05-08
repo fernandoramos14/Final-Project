@@ -1,4 +1,6 @@
 BERT Sentiment Analysis - Final Project
+
+
 This repository contains a Jupyter notebook that demonstrates the application of BERT (Bidirectional Encoder Representations from Transformers) for sentiment analysis on textual data. It was developed as a final project to showcase how transformer-based models can outperform traditional machine learning algorithms in sentiment classification tasks.
 
 📘 Notebook Overview
