@@ -12,7 +12,7 @@ from transformers import BertTokenizer, BertModel
 import pickle
 
 
-file_path = "D:/2024/NCI/Semester 3/Practicum 2/GitHub/BERT test/BERTSentiment/spam_.csv" 
+file_path = ".../spam_.csv" 
 df = pd.read_csv(file_path, encoding="latin-1")
 #df.head()
 
